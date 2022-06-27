@@ -1,0 +1,41 @@
+@font-face {
+  src: url(font/Roboto-Light.ttf);
+  font-family: roboto;
+}
+@font-face {
+  src: url(font/Merienda-Bold.ttf);
+  font-family: mer;
+}
+.navmenu{
+  float:left;
+}
+.box{
+  width: 800px;
+  height: 800px;
+  margin: 10px;
+  padding: 30px;
+
+}
+button{
+  background-color: #D9B5E6;
+  border-radius: 20px;
+  border: 0;
+  font-family: roboto;
+  font-weight: bold;
+}
+input{
+  font-family: roboto;
+}
+img{
+  width: 800px;
+}
+p{
+  font-family: roboto;
+  text-align: justify;
+  font-weight: bolder;
+  font-size: 20px;
+}
+h1{
+  font-family: mer;
+  font-size: 40px;
+}
